@@ -1,0 +1,3 @@
+rootProject.name = 'aut-back-petstore'
+
+include('lib')
